@@ -7,7 +7,7 @@ Some of the topics covered were:
 - introduction to testing a React application.
 - using the `react-testing-library` testing framework.
 - writing unit tests for React components.
-
+    
 ## Instructions
 
 **Read these requirements carefully. Understand exactly what is expected _before_ starting.**
@@ -21,7 +21,7 @@ Please push your code often and use descriptive commit messages, this helps you 
 ## Project Description
 
 In this project, you will **write unit tests and the implementation code** for a React application for _Baseball Stadium_ personnel. The application helps them enter information about the game and have that information shown in the _Score Board Display_ for fans to see.
-
+  
 The requirements are listed under the _Minimum Viable Product_ section below.
 
 ## Project Set Up
